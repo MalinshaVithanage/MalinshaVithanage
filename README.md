@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Malinsha Vithanage</h1>
 <h3 align="center">An IT Undergraduate, and a Tech Enthusiast from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif">
+<img align="right" alt="Coding" width="400"  src="https://media2.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e474asx5iolpzfclzfdni5lkova6pwtkw7u9fl0q8we&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malivitha&label=Profile%20views&color=0e75b6&style=flat" alt="malivitha" /> </p>
 
