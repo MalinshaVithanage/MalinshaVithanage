@@ -1,4 +1,4 @@
-![MasterHead](https://e0.pxfuel.com/wallpapers/505/558/desktop-wallpaper-anime-girl-computer-anime-programming.jpg)
+![MasterHead](https://media2.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e47w6mczcwpwfa3m656lmu4o0dyn4akk8bbfyftu6qq&ep=v1_gifs_related&rid=giphy.gif&ct=s)
 
 <h1 align="center">Hi 👋, I'm Malinsha Vithanage</h1>
 <h3 align="center">An IT Undergraduate, and a Tech Enthusiast from Sri Lanka</h3>
