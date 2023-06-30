@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
+![MasterHead](https://e0.pxfuel.com/wallpapers/505/558/desktop-wallpaper-anime-girl-computer-anime-programming.jpg)
 
 <h1 align="center">Hi 👋, I'm Malinsha Vithanage</h1>
 <h3 align="center">An IT Undergraduate, and a Tech Enthusiast from Sri Lanka</h3>
