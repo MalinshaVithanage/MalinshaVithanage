@@ -1,5 +1,7 @@
-![MasterHead](https://media2.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e47w6mczcwpwfa3m656lmu4o0dyn4akk8bbfyftu6qq&ep=v1_gifs_related&rid=giphy.gif&ct=s)
 
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e47w6mczcwpwfa3m656lmu4o0dyn4akk8bbfyftu6qq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Malinsha Vithanage</h1>
 <h3 align="center">An IT Undergraduate, and a Tech Enthusiast from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2_07Fv_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/MishManners%2520Room%2520animated.gif">
