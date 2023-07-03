@@ -30,7 +30,7 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=malivitha&show_icons=true&theme=radical&layout=compact" alt="malivitha" /></p>
 <br>
 
-<p><img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=malivitha&show_icons=true&theme=radical" alt="malivitha" /></p>
+<p><img align="right" width="600" src="https://github-readme-stats.vercel.app/api?username=malivitha&show_icons=true&theme=radical" alt="malivitha" /></p>
 <br>
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=malivitha&show_icons=true&theme=radical" alt="malivitha" /></p>
