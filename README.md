@@ -18,8 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/malinsha vithanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malinsha vithanage" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20555252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20555252" height="30" width="40" /></a>
-<a href="https://dribbble.com/malinsha vithanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="malinsha vithanage" height="30" width="40" /></a>
-<a href="https://www.behance.net/mainsha vithanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mainsha vithanage" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@malinsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@malinsha" height="30" width="40" /></a>
 </p>
 
