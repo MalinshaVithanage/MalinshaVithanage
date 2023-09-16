@@ -28,7 +28,7 @@
 
 <p  align="center" width="400"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=malinshavithanage&show_icons=true&theme=radical&layout=compact" alt="malinshavithanage" /></p>
 
-<p align="center" width="400">&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=malinshavithanage&show_icons=true&theme=radical" alt="malinshavithanage" /></p>
+<p align="center" width="1000">&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=malinshavithanage&show_icons=true&theme=radical" alt="malinshavithanage" /></p>
 
 
 <p align="center" width="400"><img src="https://github-readme-stats.vercel.app/api?username=malinshavithanage&show_icons=true&theme=radical" alt="malinshavithanage" /></p>
